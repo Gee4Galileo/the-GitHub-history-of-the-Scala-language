@@ -9,3 +9,7 @@ site (GitHub). With almost 30,000 commits and a history spanning over ten years,
 You will find out who has had the most influence on its development and who are the experts.
 
 The dataset includes the project history of Scala retrieved from Git and GitHub as a set of CSV files.
+
+### Skills
+
+`Data Manipulation` `Data Visualization` `Importing & Cleaning Data`
